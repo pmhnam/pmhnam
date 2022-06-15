@@ -1,12 +1,10 @@
-# github-profile Phạm Minh Hoàng Nam
+# Github profile Phạm Minh Hoàng Nam
 
-
-[![](https://raw.githubusercontent.com/gadola/gadola/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <p align="center">
     <a href="https://github.com/pmhnam">
         <img
-            src="https://readme-typing-svg.herokuapp.com/?lines=My+fullname+is+Pham Minh Hoang Nam;I%27m+a+Back-end+web+developer;In+the+DevOps&center=true&width=500&height=50">
+            src="https://readme-typing-svg.herokuapp.com/?lines=My+fullname+is+Phạm+Minh+Hoàng+Nam;I%27m+a+Back-end+web+developer;In+the+future+DevOps&center=true&width=500&height=50">
     </a>
 </p>
 <hr/>
