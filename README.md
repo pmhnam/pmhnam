@@ -50,7 +50,7 @@
             <a href="#"><img
                     src="https://img.shields.io/badge/youtube-%23EA4335.svg?style=plastic&logo=youtube&logoColor=white"
                     alt="Youtube" /></a>
-            <a href="https://www.facebook.com/pmhnamdev"><img
+            <a href="https://www.facebook.com/hnam.se"><img
                     src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white"
                     alt="Facebook" /></a>
         </span>
