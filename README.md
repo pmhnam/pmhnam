@@ -34,7 +34,6 @@
     <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab"></img>
     <img src="https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket"></img>
     <img src="https://img.shields.io/badge/-Solidity-white?style=flat-square&logo=solidity&logoColor=363636"></img>
-    <img src=""></img>
 </div>
 <br/>
 
